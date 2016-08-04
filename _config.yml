@@ -6,9 +6,10 @@ color:
   saturation: 0.4909221469424665
   rhythmicContrast: 0.4208292381372303
   brandColors:
-    - '#FF8000'
-    - '#FFD933'
-    - '#CCCC52'
-    - '#8FB359'
-    - '#192B33'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Chemo Travels
+description: My journey on the chemo rollercoaster
