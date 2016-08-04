@@ -1,4 +1,3 @@
-layout_spectrum: 0.35125178867019713
 typography_spectrum: 0.01841021911241114
 color:
   brandStrength: 0.8864943622611463
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.35125178867019713
 name: Chemo Travels
+title: Poking & Prodding
 description: My journey on the chemo rollercoaster
